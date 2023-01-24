@@ -1,3 +1,2 @@
 # Git and Githun Course
-
-crash cource
+Внесены некоторые изменения
